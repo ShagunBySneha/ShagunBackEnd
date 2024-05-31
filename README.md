@@ -1,2 +1,3 @@
-# ShagunBackEnd
-This repo will hold the backend source code of the website
+# NodeJS E-commerce API Development
+
+
